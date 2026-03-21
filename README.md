@@ -8,12 +8,12 @@ The app stores transcription history and provides a smooth end-to-end experience
 
 ## 🚀 Features
 
-* 🎤 Record audio directly from the browser
-* 📤 Upload audio files
-* 🤖 AI-powered transcription using AssemblyAI
-* 📝 Display transcription results instantly
-* 📚 View saved transcription history
-* ☁️ Data stored securely using Supabase
+*  Record audio directly from the browser
+*  Upload audio files
+*  AI-powered transcription using AssemblyAI
+*  Display transcription results instantly
+*  View saved transcription history
+*  Data stored securely using Supabase
 
 
 ##  Tech Stack
